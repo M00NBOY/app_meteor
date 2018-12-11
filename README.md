@@ -1,8 +1,8 @@
 # Meteor exercise
 
 ## how to use :
-### 1/ clone the repository
-### 2/ run this command line
+### 1 - clone the repository
+### 2 - run this command line
 ```
 shel
 $ cd app_meteor
