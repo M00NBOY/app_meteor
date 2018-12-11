@@ -3,8 +3,7 @@
 ## how to use :
 ### 1 - clone the repository
 ### 2 - run this command line
-```
-shel
+``` shell
 $ cd app_meteor
 $ npm install
 $ meteor
